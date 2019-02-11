@@ -1,2 +1,4 @@
 # Test
-To learn about the GitHub
+
+This is a test to the GitHub Repository.
+Any changes to this are stricly prohibted.
